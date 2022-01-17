@@ -1,0 +1,24 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "BigCo Onboarding API Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkes/DABGWA-book-onboarding.git"
+  },
+  "keywords": [
+    "api",
+    "onboarding",
+    "bigco"
+  ],
+  "author": "Bèr Kessels <ber@berk.es>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berkes/DABGWA-book-onboarding/issues"
+  },
+  "homepage": "https://github.com/berkes/DABGWA-book-onboarding#readme"
+}
